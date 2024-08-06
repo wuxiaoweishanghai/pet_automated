@@ -1,0 +1,14 @@
+*.log*
+*.idea*
+*.pyc*
+*.class*
+*.metadata*
+*output*
+*.iml*
+*nohup.out*
+*uwsgi.pid*
+*.pytest_cache*
+*pytest.ini*
+*packages*
+*.vscode*
+*ychtest.py*
